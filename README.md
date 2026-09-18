@@ -3,6 +3,7 @@
 UG32F01 is a monochrome 320×240 LCD display. It does not have a controller on board. Z80LCD is designed specifically as a controller for UG32F01
 
 ![z80lcd](Z80LCD_UG32F01.jpg)
+![annotated](z80lcd_annotated.jpg)
 
 ### Features
 - 22MHz Z80
@@ -14,6 +15,7 @@ UG32F01 is a monochrome 320×240 LCD display. It does not have a controller on b
 - LCD interface to UG32F01
 - 2-layer pc board, 102mm x 59mm
 ### Design Information
-- Schematic
-- Gerber photoplots
+- [Schematic](z80lcd_rev0_scm.pdf)
+- [Gerber photoplots](z80lcd_r0_gerber.zip)
 - CPLD equations
+
